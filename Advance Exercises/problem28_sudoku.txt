@@ -1,0 +1,2 @@
+Problem 28 - Sudoku Solver
+Given a 9x9 Sudoku with 0 for empty cells, solve and print solved board. Input: 9 lines each 9 integers. Output: solved board 9 lines.

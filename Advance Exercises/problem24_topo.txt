@@ -1,0 +1,2 @@
+Problem 24 - Topological Sort
+Given a DAG as n m edges u v (edge u->v), output one topological order or "CYCLIC" if cycle exists. Input: n m then m edges. Output: order of n nodes (space-separated) or CYCLIC.

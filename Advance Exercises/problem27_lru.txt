@@ -1,0 +1,2 @@
+Problem 27 - LRU Cache
+Implement LRU cache with integer keys and values. Input: capacity then q operations. Each operation: GET key or PUT key value. Print GET results or nothing for PUT. After all operations, print cache state most-recent to least (key:value pairs).

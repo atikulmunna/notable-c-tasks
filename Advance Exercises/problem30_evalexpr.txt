@@ -1,0 +1,2 @@
+Problem 30 - Expression Evaluator
+Read a line containing an arithmetic expression (operators + - * / ^ and parentheses). Evaluate and print result as double. Support integers and decimals. Input: single line expression. Output: numeric result.

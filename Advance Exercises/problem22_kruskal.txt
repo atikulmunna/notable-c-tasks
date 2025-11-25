@@ -1,0 +1,2 @@
+Problem 22 - Kruskal MST
+Given undirected weighted graph as edge list, compute total weight of MST. Input: n m then m lines u v w (0-indexed). Output: total weight or "NO MST" if not connected.

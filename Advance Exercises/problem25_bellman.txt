@@ -1,0 +1,2 @@
+Problem 25 - Bellman-Ford
+Given directed weighted graph with possible negative weights, detect negative cycle reachable from source. Input: n m edges u v w, then source. Output: "NEGATIVE CYCLE" or distances.

@@ -1,0 +1,2 @@
+Problem 26 - Max Flow (Edmonds-Karp)
+Given directed graph with capacities as adjacency matrix, compute max flow from s to t. Input: n then n*n capacity matrix then s t. Output: max flow integer.

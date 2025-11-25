@@ -1,0 +1,2 @@
+Problem 21 - Dijkstra
+Given a weighted directed graph as an adjacency matrix (use -1 for no edge), compute single-source shortest paths from a given source node and print distances (use INF for unreachable). Input: n followed by n*n matrix, then source (0-indexed). Output: distances separated by spaces.

@@ -1,0 +1,2 @@
+Problem 23 - AVL Tree
+Read n and then n integers to insert into an AVL tree. After all insertions, print inorder traversal and height of tree. Input: n then values. Output: inorder (space-separated) then newline then height.

@@ -1,0 +1,2 @@
+Problem 29 - N-Queens Count
+Given n (n<=14), count number of distinct solutions for n-queens. Input: n. Output: number of solutions as integer.
